@@ -1,4 +1,4 @@
-📧 Spam Detection Using Machine Learning
+# 📧 Spam Detection Using Machine Learning
 
 A machine learning project that classifies messages as spam or ham (not spam) using natural language processing and classification algorithms. This project demonstrates text preprocessing, feature extraction, model training, and evaluation.
 
